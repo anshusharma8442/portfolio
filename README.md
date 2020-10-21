@@ -7,5 +7,9 @@
 * Commit To Master once done with editing
 * Go to setting and publish your page
 * All done
-
+*Available function:
+  1.Image
+  2.content writing
+*Proposed function:
+  1. Volunteering
 If willing to buy me a Coffee write at sunilk@ieee.org
